@@ -1,0 +1,10 @@
+.mod-bbcode {
+	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	background-color: #FFFFFF;
+	border: 1px dashed #6b92bd;
+	color: #333;
+	font-size: 12px;
+	margin-bottom: 10px;
+	padding: 7px;
+	text-align: justify;
+}
